@@ -1,0 +1,79 @@
+body {
+    background-color: whitesmoke;
+    
+}
+
+/*carrusel_galeria:productos*/
+.carousel-item{
+    background-color:rgb(231, 230, 230);
+}
+
+
+
+
+
+
+/*caja_contenedora_descripcion_scroll*/
+.contt{
+    padding-left: 60px;
+    padding-top: 30px;
+    padding-bottom: 20px;
+    background-color: rgb(75, 75, 75);
+}
+
+
+.contenedor{
+ 
+    width:95%;
+    height: 400px;
+    overflow: auto;
+}
+
+.bg-danger1{
+   background-color: #C40024;
+}
+
+.as{
+   width: 12px;
+}
+.tamaño{
+    width: 50%;
+    height: 500px;
+}
+
+.imgselnet{
+    padding-left: 100px;
+
+}
+
+
+footer {
+   margin-top:  100px;
+    grid-area: pie;
+    background-color: rgb(75, 75, 75);
+    text-align: center;
+    text-decoration: solid;
+    color: #D9D9D9;
+
+}
+
+/*redes*/
+.imgredes{
+    width: 35px;
+    height:30px;
+    margin: 4px;
+    margin-top: 9px;
+  }
+
+
+
+  /*descarga_pdf*/
+  .descargapdf{
+    display: flex;
+    padding-left: 15px;
+  }
+
+  .descargapdf div{
+    padding-left: 30px;
+    padding-top: 20px;
+  }
